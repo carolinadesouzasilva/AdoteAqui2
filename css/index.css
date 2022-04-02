@@ -29,13 +29,13 @@ nav {
     flex-flow: row wrap;
     justify-content: space-around;
     width: 40%;
-    background-color: rgba(240, 240, 116, 0.877);
+    background-color: #ffd803;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     padding: 8px 0px 3px 10px;
-    color: yellow;
+    color: #ffd803;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
